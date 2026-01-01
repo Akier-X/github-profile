@@ -18,7 +18,10 @@
 
 <br/>
 
-## `🧬 ABOUT ME`
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/DNA.png" width="35"/>
+<h2>ABOUT ME</h2>
+</div>
 
 <table>
 <tr>
@@ -62,7 +65,7 @@ class AIStudent:
 
 <div align="center">
 
-### 💭 今、僕が取り組んでいること
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thinking%20Face.png" width="30"/> **今、僕が取り組んでいること**
 
 </div>
 
@@ -70,19 +73,19 @@ class AIStudent:
 
 <table align="center">
 <tr>
-<td align="center">🤖</td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="28"/></td>
 <td><strong>LLM・AIエージェント開発</strong> - Claude APIを使った自律型AIシステムの構築</td>
 </tr>
 <tr>
-<td align="center">🌐</td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20Showing%20Americas.png" width="28"/></td>
 <td><strong>Webアプリケーション開発</strong> - Next.js × AIで次世代のUXを創造</td>
 </tr>
 <tr>
-<td align="center">📚</td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="28"/></td>
 <td><strong>継続的な学習</strong> - 最新のAI技術とベストプラクティスを日々吸収中</td>
 </tr>
 <tr>
-<td align="center">🔧</td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28"/></td>
 <td><strong>自動化ツール開発</strong> - 面倒な作業をAIで効率化</td>
 </tr>
 </table>
@@ -93,11 +96,16 @@ class AIStudent:
 
 <br/>
 
-## `⚡ TECH STACK`
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="35"/>
+<h2>TECH STACK</h2>
+</div>
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25"/> **Languages & Frameworks**
+
+<br/>
 
 <a href="https://python.org"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/></a>
 <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/></a>
@@ -110,36 +118,51 @@ class AIStudent:
 
 <br/><br/>
 
-### 🧠 AI / Machine Learning
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="25"/> **AI / Machine Learning**
+
+<br/>
 
 <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/></a>
 <a href="https://tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/></a>
-<a href="https://openai.com"><img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="28" alt="OpenAI"/></a>
-<a href="https://anthropic.com"><img src="https://img.shields.io/badge/-Claude-DA7756?style=flat-square&logo=claude&logoColor=white" height="28" alt="Claude"/></a>
-<a href="https://gemini.google.com"><img src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" height="28" alt="Gemini"/></a>
-<a href="https://grok.x.ai"><img src="https://img.shields.io/badge/-Grok-000000?style=flat-square&logo=grok&logoColor=white" height="28" alt="Grok"/></a>
-<a href="https://lmstudio.ai"><img src="https://img.shields.io/badge/-LM_Studio-6366F1?style=flat-square&logoColor=white" height="28" alt="LM Studio"/></a>
-<a href="https://huggingface.co"><img src="https://img.shields.io/badge/-🤗_Hugging_Face-FFD21E?style=flat-square" height="28" alt="Hugging Face"/></a>
-<a href="https://langchain.com"><img src="https://img.shields.io/badge/-🦜_LangChain-1C3C3C?style=flat-square" height="28" alt="LangChain"/></a>
+<a href="https://openai.com"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/></a>
+<a href="https://anthropic.com"><img src="https://img.shields.io/badge/Claude-DA7756?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/></a>
+<a href="https://gemini.google.com"><img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini"/></a>
+<a href="https://grok.x.ai"><img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=grok&logoColor=white" alt="Grok"/></a>
+<a href="https://lmstudio.ai"><img src="https://img.shields.io/badge/LM_Studio-6366F1?style=for-the-badge&logoColor=white" alt="LM Studio"/></a>
+<a href="https://huggingface.co"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+<a href="https://langchain.com"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/></a>
 
 <br/><br/>
 
-### 🛠️ Tools & Infrastructure
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25"/> **Tools & Infrastructure**
+
+<br/>
 
 <a href="https://docker.com"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/></a>
 <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/></a>
 <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/></a>
 <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/></a>
 <a href="https://vercel.com"><img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/></a>
+<a href="https://aws.amazon.com"><img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS"/></a>
+<a href="https://figma.com"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/></a>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="25"/> **Database**
+
+<br/>
+
 <a href="https://supabase.com"><img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase"/></a>
 <a href="https://www.postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/></a>
 <a href="https://www.mongodb.com"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/></a>
 
 <br/><br/>
 
-### 💳 Payment & Services
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Credit%20Card.png" width="25"/> **Payment & Services**
 
-<a href="https://stripe.com"><img src="https://img.shields.io/badge/-Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" height="28" alt="Stripe"/></a>
+<br/>
+
+<a href="https://stripe.com"><img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/></a>
 
 </div>
 
@@ -149,7 +172,10 @@ class AIStudent:
 
 <br/>
 
-## `🎯 CURRENT FOCUS`
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" width="35"/>
+<h2>CURRENT FOCUS</h2>
+</div>
 
 <div align="center">
 
@@ -199,7 +225,10 @@ AIに任せて
 
 <br/>
 
-## `📊 GITHUB STATS`
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35"/>
+<h2>GITHUB STATS</h2>
+</div>
 
 <div align="center">
 
@@ -222,7 +251,10 @@ AIに任せて
 
 <br/>
 
-## `🏆 ACHIEVEMENTS`
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="35"/>
+<h2>ACHIEVEMENTS</h2>
+</div>
 
 <div align="center">
 
@@ -236,7 +268,10 @@ AIに任せて
 
 <br/>
 
-## `💬 PHILOSOPHY`
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Speech%20Balloon.png" width="35"/>
+<h2>PHILOSOPHY</h2>
+</div>
 
 <div align="center">
 
@@ -245,8 +280,8 @@ AIに任せて
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
-║   "未来を予測する最良の方法は、それを創ることだ"                  ║
-║                                        - アラン・ケイ             ║
+║   "未来を予測する最良の方法は、それを創ることだ"              　　　　 ║
+║                                        - アラン・ケイ              ║
 ║                                                                   ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
@@ -269,7 +304,10 @@ AIに任せて
 
 <br/>
 
-## `🌐 CONNECT`
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="35"/>
+<h2>CONNECT</h2>
+</div>
 
 <div align="center">
 
