@@ -115,9 +115,9 @@ class AIStudent:
 <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/></a>
 <a href="https://tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/></a>
 <a href="https://openai.com"><img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="28" alt="OpenAI"/></a>
-<a href="https://anthropic.com"><img src="https://img.shields.io/badge/-Claude-CC9B7A?style=flat-square&logo=anthropic&logoColor=white" height="28" alt="Claude"/></a>
+<a href="https://anthropic.com"><img src="https://img.shields.io/badge/-Claude-DA7756?style=flat-square&logo=claude&logoColor=white" height="28" alt="Claude"/></a>
 <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" height="28" alt="Gemini"/></a>
-<a href="https://grok.x.ai"><img src="https://img.shields.io/badge/-Grok-000000?style=flat-square&logo=x&logoColor=white" height="28" alt="Grok"/></a>
+<a href="https://grok.x.ai"><img src="https://img.shields.io/badge/-Grok-000000?style=flat-square&logo=grok&logoColor=white" height="28" alt="Grok"/></a>
 <a href="https://lmstudio.ai"><img src="https://img.shields.io/badge/-LM_Studio-6366F1?style=flat-square&logoColor=white" height="28" alt="LM Studio"/></a>
 <a href="https://huggingface.co"><img src="https://img.shields.io/badge/-🤗_Hugging_Face-FFD21E?style=flat-square" height="28" alt="Hugging Face"/></a>
 <a href="https://langchain.com"><img src="https://img.shields.io/badge/-🦜_LangChain-1C3C3C?style=flat-square" height="28" alt="LangChain"/></a>
