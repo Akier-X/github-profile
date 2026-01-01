@@ -77,7 +77,7 @@ class AIStudent:
 <td><strong>LLM・AIエージェント開発</strong> - Claude APIを使った自律型AIシステムの構築</td>
 </tr>
 <tr>
-<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20Showing%20Americas.png" width="28"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" width="28"/></td>
 <td><strong>Webアプリケーション開発</strong> - Next.js × AIで次世代のUXを創造</td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ class AIStudent:
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="25"/> **AI / Machine Learning**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="25"/> **AI / Machine Learning**
 
 <br/>
 
@@ -194,7 +194,7 @@ AIシステムを構築中
 </td>
 <td align="center" width="33%">
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="60"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="60"/>
 
 ### LLMアプリケーション
 
@@ -305,7 +305,7 @@ AIに任せて
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="35"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="35"/>
 <h2>CONNECT</h2>
 </div>
 
@@ -333,9 +333,9 @@ AIに任せて
 
 <!-- Snake Animation for Contributions -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Akier-X/Akier-X/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Akier-X/Akier-X/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Akier-X/Akier-X/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
 <br/>
